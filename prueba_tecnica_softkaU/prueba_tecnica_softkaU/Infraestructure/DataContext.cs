@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using prueba_tecnica_softkaU.DataSeeding;
 using prueba_tecnica_softkaU.Models;
+using prueba_tecnica_softkaU.Models.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

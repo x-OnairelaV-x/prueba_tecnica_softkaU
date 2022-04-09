@@ -10,7 +10,7 @@ namespace prueba_tecnica_softkaU.Infraestructure
     {
         Task<IEnumerable<T>> GetAllAsync();
         Task<T> InsertAsync(T entity);
-        Task<IEnumerable<T>> GetAsync(Expression<Func<T, bool>> filtro, IEnumerable<string> incluciones = null);
+        Task<IEnumerable<T>> GetAsync(Expression<Func<T, bool>> filtro, IEnumerable<string>? incluciones = null);
         Task<bool> UpdateAsync(T entidad);
     }
 }

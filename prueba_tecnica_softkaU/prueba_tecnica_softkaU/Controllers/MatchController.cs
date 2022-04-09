@@ -5,6 +5,7 @@ using prueba_tecnica_softkaU.Infraestructure;
 using prueba_tecnica_softkaU.Models;
 using prueba_tecnica_softkaU.Models.Enum;
 using prueba_tecnica_softkaU.Models.Extensions;
+using prueba_tecnica_softkaU.Models.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
