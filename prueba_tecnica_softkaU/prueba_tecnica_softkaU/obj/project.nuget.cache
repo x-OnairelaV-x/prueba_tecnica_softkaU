@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "eosQgC0pfJqqiR9mnPQxME7BcjLDFZ5q1Jfib21AF50PX4NzQjDb3I+IBS2wjTOif8SPUcKDuE4jPc1OIRSP2Q==",
+  "dgSpecHash": "R6Ajfz4wJrtB0NOAuWs7boexXZv+zNt1L996O9avgarhvsHXuRGyTuafAlIxZ4dRMxzRcfhz8KlnYZ5yFv2SEQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Desktop\\Vale\\Softka\\test\\test_backend\\prueba_tecnica_softkaU\\prueba_tecnica_softkaU\\prueba_tecnica_softkaU.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
@@ -40,16 +39,5 @@
     "C:\\Users\\DELL\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "El paquete \"EntityFramework 6.2.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
-      "libraryId": "EntityFramework",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }
