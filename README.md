@@ -7,7 +7,8 @@ Realizado en Visual estudio 2022, se requieren instalar nuguets de microsoft ent
 # Frontend
 
 Realizado en Visual estudio Code, se requiere instalar:
-npm install --save-dev webpack
-npm install --save-dev css-loader
-npm install --save-dev style-loader
+npm install --save-dev webpack,
+npm install --save-dev css-loader,
+npm install --save-dev style-loader,
+se puede tener conflicto con otro webpack, si es asi se recomienda limpiar la cache y ejecutarlo global con el comando npm install -g webpack webpack-cli
 
