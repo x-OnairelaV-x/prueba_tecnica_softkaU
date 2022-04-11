@@ -1,0 +1,7 @@
+F:\MySource\Valeriano\prueba_tecnica_softkaU\prueba_tecnica_softkaU\prueba_tecnica_softkaU\obj\Debug\net5.0\prueba_tecnica_softkaU.csproj.AssemblyReference.cache
+F:\MySource\Valeriano\prueba_tecnica_softkaU\prueba_tecnica_softkaU\prueba_tecnica_softkaU\obj\Debug\net5.0\prueba_tecnica_softkaU.GeneratedMSBuildEditorConfig.editorconfig
+F:\MySource\Valeriano\prueba_tecnica_softkaU\prueba_tecnica_softkaU\prueba_tecnica_softkaU\obj\Debug\net5.0\prueba_tecnica_softkaU.AssemblyInfoInputs.cache
+F:\MySource\Valeriano\prueba_tecnica_softkaU\prueba_tecnica_softkaU\prueba_tecnica_softkaU\obj\Debug\net5.0\prueba_tecnica_softkaU.AssemblyInfo.cs
+F:\MySource\Valeriano\prueba_tecnica_softkaU\prueba_tecnica_softkaU\prueba_tecnica_softkaU\obj\Debug\net5.0\prueba_tecnica_softkaU.csproj.CoreCompileInputs.cache
+F:\MySource\Valeriano\prueba_tecnica_softkaU\prueba_tecnica_softkaU\prueba_tecnica_softkaU\obj\Debug\net5.0\prueba_tecnica_softkaU.MvcApplicationPartsAssemblyInfo.cs
+F:\MySource\Valeriano\prueba_tecnica_softkaU\prueba_tecnica_softkaU\prueba_tecnica_softkaU\obj\Debug\net5.0\prueba_tecnica_softkaU.MvcApplicationPartsAssemblyInfo.cache
