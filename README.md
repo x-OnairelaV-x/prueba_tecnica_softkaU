@@ -11,4 +11,4 @@ npm install --save-dev webpack,
 npm install --save-dev css-loader,
 npm install --save-dev style-loader,
 se puede tener conflicto con otro webpack, si es asi se recomienda limpiar la cache y ejecutarlo global con el comando npm install -g webpack webpack-cli
-
+Este se encuentra en la carpeta de test
